@@ -1,7 +1,7 @@
 # PURPLE — Round 2 Submission
 
 ## 1. Team Name
-[Enter your team name]
+Semicolon
 
 
 
@@ -9,7 +9,7 @@
 
 **Problem Statement:**
 
-[Describe the problem statement your team is addressing.]
+lost and found
 
 **Proposed Solution:**
 
